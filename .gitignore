@@ -51,6 +51,7 @@ venv.bak/
 
 # Machine Learning / Data
 data/
+db/
 *.parquet
 *.csv
 *.pkl
